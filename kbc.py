@@ -1,5 +1,5 @@
-''' I am going to create a project on "KAUN BANEGA CAROREPATI" in this you will get 10 questions each for 1 crore prize money, 
-for each correct answer you get 10 Lakhs of prize money. At the end at the end you will see your amount you are taking home, 
+''' I am going to create a project on "KAUN BANEGA CAROREPATI" in this you will get 15 questions for 1 crore prize money, 
+for each correct answer your prize money will increase you will be out of game on wrong answer. At the end at the end you will see your amount you are taking home, 
 after deducting any taxes liable on winning amount. Play the game and have fun!'''
 name = input("Enter your name : ")
 print(name, "Welcome to KBC!\nAnswer these 15 Questions and stand a chance to win 1 crore.\n")
